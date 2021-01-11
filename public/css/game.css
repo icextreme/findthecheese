@@ -1,0 +1,44 @@
+tr, td, table{
+    border: "0";
+    padding: 0px;
+    margin: 0px;
+    border-spacing: 0px;
+}
+
+img {
+    width: 40px;
+    height: 40px;
+}
+
+img.stack{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+/*
+    General Structure
+*/
+.sidebar {
+    width: 200px;
+    border: 0px solid black;
+}
+
+#left {
+    float: left;
+}
+
+#right {
+    float: right;
+}
+
+#contents {
+    margin-left: 210px;
+    margin-right: 210px;
+}
+
+body {
+    margin-top: 2px;
+    font: 14px Arial, sans-serif;
+}
+
