@@ -18,7 +18,7 @@ After cloning or downloading the project, you will need to open it in IntelliJ I
 
 ## Usage
 ### Running the program
-To run the application, from the navigation bar, go to `FindTheCheese/src/main/java/com.icextreme.findthecheese` and find `Application`. Right click it and press `Run 'Application.main()'`. The local web server will now start.
+To run the application, from the navigation bar, go to `findthecheese/src/main/java/com.icextreme.findthecheese` and find `Application`. Right click it and press `Run 'Application.main()'`. The local web server will now start.
 
 To play the game, open a web browser of your choice, and go to `http://localhost:8080`.
 
