@@ -35,4 +35,4 @@ The game ends when you collect all 5 of the cheese, or when your character gets 
 To stop the application, open up IntelliJ IDEA press `CTRL + F2` or press the stop button on the run configuration toolbar. The web server will shut down as well.
 
 ## Acknowledgements
-Dr. Brian Fraser for providing the Gradle build scripts and initial interface.
+Dr. Brian Fraser for providing the Gradle build scripts and initial web interface.
