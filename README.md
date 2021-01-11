@@ -1,6 +1,11 @@
 # FindTheCheese
 FindTheCheese is a web-based maze game that is built using Spring Boot and written in Java. As a player, your objective is to navigate the maze as a mouse and `FindTheCheese` that is located in an area of the maze, while avoiding being caught by the cats. Collect 5 of the cheese to win the game!
 
+<p align="center">
+  <img src="https://github.com/icextreme/findthecheese/blob/main/images/gameplay.png" height="40%" width="40%"/>
+</p>
+
+
 ## Getting Started
 ### Prerequisites
 In order to build this application, you will need:
